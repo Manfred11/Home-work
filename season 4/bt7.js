@@ -12,7 +12,7 @@ else if(BMI>=18.5 && BMI<25)
 {
     console.log("Binh thuong!");
 }
-else if(BMI>=25 && BMI<30)
+else if(BMI>=25 && BMI<30)   //co the bo qua BMI >=25 vi dk tren sai moi chay tiep 
 {
     console.log("Hoi beo");
 }

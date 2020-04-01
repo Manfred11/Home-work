@@ -14,7 +14,7 @@ if(c >= max){
     temp = max;
     max = c;   
 }else if(c <= min){
-    mid = min;
+    temp = min;
     min = c;
 }else {
     temp = c;
