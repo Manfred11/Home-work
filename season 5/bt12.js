@@ -11,7 +11,7 @@ let a = parseInt(prompt("Nhap chieu dai a: "));
 
 let s= '';
 console.log('======= HTG ======');
-for (let i = 0; i < b; i++) {
+for (let i = 0; i < a; i++) {
   s += "*";
   console.log(s);
 }
